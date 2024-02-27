@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareApp</string>
+    <string name="button">Get Started</string>
+    <string name="name">Amos Byamukama</string>
+    <string name="user">Username\n</string>
+    <string name="pass">Password</string>
+</resources>
